@@ -1,0 +1,13 @@
+install PyQt5 for GUI
+pip install PyQt5
+
+To run:
+python GUI.py
+
+expl:
+convert abcdA-> zyxwZ
+lowercase letters are inverted in their lowercase order
+Uppercase letters are inverted in their uppercase order
+other symbols stay the same, including spaces
+
+V2: created a encrypt and decrypt button GUI.
